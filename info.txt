@@ -1,0 +1,3 @@
+required items:
+advtrains_line_automation:dtrack_stop_placer 20x
+advtrains_luaautomation:dtrack_placer 30x
