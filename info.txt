@@ -1,3 +1,8 @@
 required items:
-advtrains_line_automation:dtrack_stop_placer 20x
-advtrains_luaautomation:dtrack_placer 30x
+"advtrains_line_automation:dtrack_stop_placer 20"
+"advtrains_luaautomation:dtrack_placer 30"
+
+required privileges:
+"track_builder"
+"train_operator"
+"atlatc"
